@@ -18,9 +18,5 @@ A main guiding principle of this work is that a causal lens through the explicit
 
 This notebook serves as a code companion to the final report. 
 
-## Team members
 
-- Kalle Bylin
-
-## Reproducing Experiments
 
